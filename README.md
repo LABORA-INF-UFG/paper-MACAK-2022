@@ -1,6 +1,6 @@
 <img width="20%" src="docs/media/img/my5g-logo.png" alt="my5G-core"/>
 
-# non3GPP-access
+# Untrusted non-3GPP access Wi-Fi use case
 
 ![GitHub](https://img.shields.io/github/license/LABORA-INF-UFG/paper-MCAK-2021?color=blue)
 ![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/my5G/my5GCore)
@@ -11,7 +11,7 @@
 ----
 ## Description
 
-non3GPP-access is an open-source implementation to provide untrusted non3GPP access to 5GCN according to 3GPP Release 15.
+Untrusted non-3GPP access Wi-Fi use case is an open-source implementation to provide untrusted non3GPP access to 5GCN according to 3GPP Release 15.
 All the access is done via N3IWF.
 
 If you have questions or comments, please email us: [my5G team](mailto:my5G.initiative@gmail.com). 
@@ -20,10 +20,6 @@ If you have questions or comments, please email us: [my5G team](mailto:my5G.init
 
 For documentation, please reference to [wiki](https://github.com/LABORA-INF-UFG/paper-MCAK-2021/wiki).
 
-## Contributing
-
-For contribution, please reference to [guidelines](https://github.com/my5G/template/blob/main/CONTRIBUTING.md).
-
 ## License
 
-non3GPP-access is now under [Apache 2.0](https://github.com/LABORA-INF-UFG/paper-MCAK-2021/blob/master/LICENSE) license.
+Untrusted non-3GPP access Wi-Fi use caseis now under [Apache 2.0](https://github.com/LABORA-INF-UFG/paper-MCAK-2021/blob/master/LICENSE) license.
