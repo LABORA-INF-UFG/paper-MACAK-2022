@@ -22,4 +22,4 @@ For documentation, please reference to [wiki](https://github.com/LABORA-INF-UFG/
 
 ## License
 
-Untrusted non-3GPP access Wi-Fi use caseis now under [Apache 2.0](https://github.com/LABORA-INF-UFG/paper-MCAK-2021/blob/master/LICENSE) license.
+Untrusted non-3GPP access Wi-Fi use case is now under [Apache 2.0](https://github.com/LABORA-INF-UFG/paper-MCAK-2021/blob/master/LICENSE) license.
