@@ -6,7 +6,7 @@
 ![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/my5G/my5GCore)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/LABORA-INF-UFG/paper-MCAK-2021) 
 ![GitHub last commit](https://img.shields.io/github/last-commit/LABORA-INF-UFG/paper-MCAK-2021)
-![GitHub contributors](https://img.shields.io/github/contributors/LABORA-INF-UFG/paper-MCAK-2021/)
+![GitHub contributors](https://img.shields.io/github/contributors/LABORA-INF-UFG/paper-MCAK-2021)
 
 ----
 ## Description
