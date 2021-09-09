@@ -11,7 +11,7 @@
 ----
 ## Description
 
-Untrusted non-3GPP access Wi-Fi use-case aims to demonstrate a 5G core network access over a Wi-Fi network. All the access is done via N3IWF.
+Untrusted non-3GPP access Wi-Fi use case aims to demonstrate a 5G core network access over a Wi-Fi network. All the access is done via N3IWF.
 
 If you have questions or comments, please email us: [corresponding author](mailto:mario.lemes@ifg.edu.br). 
 
