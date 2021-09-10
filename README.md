@@ -1,4 +1,4 @@
-<img width="20%" src="docs/media/img/my5g-logo.png" alt="my5G-core"/>
+<img width="20%" src="sample/my5g_wifi_config/figs/my5g-logo.png" alt="my5G-core"/>
 
 # Untrusted non-3GPP access Wi-Fi use case
 
