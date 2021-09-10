@@ -29,7 +29,7 @@ If you want to cite this use case, please use the following information:
 
 ## Documentation
 
-For documentation, please reference to [wiki](https://github.com/LABORA-INF-UFG/paper-MCAK-2021/wiki).
+https://github.com/LABORA-INF-UFG/paper-MCAK-2021/wiki
 
 ## License
 
