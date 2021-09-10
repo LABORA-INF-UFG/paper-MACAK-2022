@@ -11,7 +11,7 @@
 ----
 ## Description
 
-This experiment aims to demonstrate a non-3GPP access based on N3IWF (Non-3GPP Interworking Function) which Wi-Fi technology is employed. We use an open-source implementation of the SBA-based 5G core software ([my5G-core](https://github.com/my5G/my5G-core)) and an open-source implementation ([non3GPP-access](https://github.com/my5G/my5G-non3GPP-access)) to provide untrusted non-3GPP access to 5G core network.
+This experiment aims to demonstrate a non-3GPP access based on N3IWF (Non-3GPP Interworking Function) which Wi-Fi technology is employed. We use an open-source implementations of the SBA-based 5G core software ([my5G-core](https://github.com/my5G/my5G-core)) and ([non3GPP-access](https://github.com/my5G/my5G-non3GPP-access)) to provide untrusted non-3GPP access to 5G core network.
 
 If you have questions or comments, please [email](mailto:mario.lemes@ifg.edu.br) us.
 
