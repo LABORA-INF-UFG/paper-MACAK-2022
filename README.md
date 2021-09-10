@@ -15,7 +15,7 @@ This experiment aims to demonstrate an untrusted non-3GPP access, based on Non-3
 
 If you have questions or comments, please email us: [my5G team](mailto:mario.lemes@ifg.edu.br).
 
-If you want to cite this tutorial, please use the following information:
+If you want to cite this tool, please use the following information:
 
 ```bash
 @misc{???,
