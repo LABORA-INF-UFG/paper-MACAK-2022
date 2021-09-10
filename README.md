@@ -20,7 +20,7 @@ If you want to cite this use case, please use the following information:
 ```bash
 @misc{lemes2021untrusted,
     title={A Tutorial on Trusted and Untrusted non-3GPP Accesses in 5G Systems - First Steps Towards a Unified Communications Infrastructure},
-    author={Mario Teixeira Lemes and Cristiano Bonato Both and Antonio C. de Oliveira Jr. and Kleber Vieira Cardos},
+    author={Mario Teixeira Lemes and Cristiano Bonato Both and Antonio C. de Oliveira Jr. and Kleber Vieira Cardoso},
     year={2021},
     eprint={},
     archivePrefix={arXiv},
