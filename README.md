@@ -15,7 +15,7 @@ This experiment aims to demonstrate an untrusted non-3GPP access based on Non-3G
 
 If you have questions or comments, please [email](mailto:mario.lemes@ifg.edu.br) us.
 
-If you want to cite this use case, please use the following information:
+It is a pleasure to share our knowledge and you are free to use! Please, cite our work as we can continue contributing. Thank you!
 
 ```bash
 @misc{???,
