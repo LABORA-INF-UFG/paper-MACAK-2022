@@ -15,10 +15,22 @@ This experiment aims to demonstrate a non-3GPP access based on N3IWF (Non-3GPP I
 
 If you have questions or comments, please email us: [corresponding author](mailto:mario.lemes@ifg.edu.br). 
 
+If you want to cite this use case, please use the following information:
+
+```bash
+@misc{???,
+    title={???},
+    author={???},
+    year={2020},
+    eprint={???},
+    archivePrefix={arXiv},
+    primaryClass={cs.NI}
+```
+
 ## Documentation
 
 For documentation, please reference to [wiki](https://github.com/LABORA-INF-UFG/paper-MCAK-2021/wiki).
 
 ## License
 
-Untrusted non-3GPP access Wi-Fi use case is now under [Apache 2.0](https://github.com/LABORA-INF-UFG/paper-MCAK-2021/blob/master/LICENSE) license.
+[Apache 2.0](https://github.com/LABORA-INF-UFG/paper-MCAK-2021/blob/master/LICENSE).
