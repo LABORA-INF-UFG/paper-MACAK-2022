@@ -29,11 +29,11 @@ If you want to cite this tool, please use the following information:
 
 ## Documentation
 
-https://github.com/LABORA-INF-UFG/paper-MCAK-2021/wiki
+https://github.com/LABORA-INF-UFG/paper-MCAK-2021/wiki.
 
 ## Contributing
 
-https://github.com/my5G/template/blob/main/CONTRIBUTING.md
+https://github.com/my5G/template/blob/main/CONTRIBUTING.md.
 
 ## License
 
