@@ -53,7 +53,7 @@ if [[ $1 == "up" ]]; then
   sudo ip addr add 172.16.0.2/24 dev br-n2
 
   # Setup network namespace for UPF
-  sudo ip netns add UPFns
+  # sudo ip netns add UPFns
 
   sudo ip link add veth0 type veth peer name veth1
   sudo ip link set veth0 up
