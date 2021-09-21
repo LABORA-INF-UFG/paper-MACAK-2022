@@ -16,11 +16,11 @@ This experiment aims to demonstrate an untrusted non-3GPP access, based on Non-3
 
 If you have questions or comments, please email us: [my5G team](mailto:mario.lemes@ifg.edu.br).
 
-If you want to cite this tool, please use the following information:
+It is a pleasure to share our knowledge and you are free to use! Please, cite our work as we can continue contributing. Thank you!
 
 ```bash
 @misc{lemes2021tutorial,
-      title={A Tutorial on Trusted and Untrusted non-3GPP Accesses in 5G Systems - First Steps Towards a Unified Communications Infrastructure}, 
+      title={A Tutorial on Trusted and Untrusted non-{3GPP} Accesses in {5G} Systems - First Steps Towards a Unified Communications Infrastructure}, 
       author={Mario T. Lemes and Cristiano Bonato Both and Antonio C. de Oliveira Jr. and and Kleber Vieira Cardoso},
       year={2021},
       eprint={2109.08976},
