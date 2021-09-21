@@ -21,14 +21,14 @@ It is a pleasure to share our knowledge and you are free to use! Please, cite ou
 
 ```bash
 @misc{lemes2021tutorial,
-    title={A Tutorial on Trusted and Untrusted non-{3GPP} Accesses in {5G} 
+    title={A Tutorial on Trusted and Untrusted non-{3GPP} Accesses  {5G} 
     Systems - First Steps Towards a Unified Communications Infrastructure}, 
     author={Mario Teixeira Lemes and Cristiano Bonato Both and 
     Antonio C. de Oliveira Jr. and Kleber Vieira Cardoso},
     year={2021},
     archivePrefix={arXiv},
     primaryClass={cs.NI},
-    url={https://arxiv.org/pdf/2109.08976.pdf}}
+    url={https://arxiv.org/pdf/2109.08976.pdf}
 }
 ```
 
