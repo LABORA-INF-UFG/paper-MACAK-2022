@@ -18,6 +18,7 @@ If you have questions or comments, please email us: [my5G team](mailto:mario.lem
 
 It is a pleasure to share our knowledge and you are free to use! Please, cite our work as we can continue contributing. Thank you!
 
+
 ```bash
 @misc{lemes2021tutorial,
     title={A Tutorial on Trusted and Untrusted non-{3GPP} Accesses in {5G} 
@@ -25,7 +26,6 @@ It is a pleasure to share our knowledge and you are free to use! Please, cite ou
     author={Mario Teixeira Lemes and Cristiano Bonato Both and 
     Antonio C. de Oliveira Jr. and Kleber Vieira Cardoso},
     year={2021},
-    eprint={2109.08976},
     archivePrefix={arXiv},
     primaryClass={cs.NI},
     url={https://arxiv.org/pdf/2109.08976.pdf}}
