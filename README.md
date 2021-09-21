@@ -20,7 +20,8 @@ It is a pleasure to share our knowledge and you are free to use! Please, cite ou
 
 ```bash
 @misc{lemes2021tutorial,
-      title={A Tutorial on Trusted and Untrusted non-{3GPP} Accesses in {5G} Systems - First Steps Towards a Unified Communications Infrastructure}, 
+      title={A Tutorial on Trusted and Untrusted non-{3GPP} Accesses 
+      in {5G} Systems - First Steps Towards a Unified Communications Infrastructure}, 
       author={Mario T. Lemes and Cristiano Bonato Both and Antonio C. de Oliveira Jr. and and Kleber Vieira Cardoso},
       year={2021},
       eprint={2109.08976},
