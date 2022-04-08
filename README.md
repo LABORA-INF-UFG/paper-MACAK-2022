@@ -42,4 +42,4 @@ https://github.com/my5G/template/blob/main/CONTRIBUTING.md.
 
 ## License
 
-[Apache 2.0](https://github.com/LABORA-INF-UFG/paper-MCAK-2021/blob/master/LICENSE).
+[Apache 2.0](https://github.com/LABORA-INF-UFG/paper-MCAK-2021/blob/master/LICENSE)
