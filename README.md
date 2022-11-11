@@ -18,6 +18,17 @@ If you have questions or comments, please email us: [my5G team](mailto:mario.lem
 
 It is a pleasure to share our knowledge and you are free to use! Please, cite our work as we can continue contributing. Thank you!
 
+## How to cite
+```
+@article{lemes2022tutorial,
+  title={A Tutorial on Trusted and Untrusted non-3GPP Accesses in 5G Systems-First Steps Towards a Unified Communications Infrastructure},
+  author={Lemes, Mario T and Alberti, Antonio M and Both, Cristiano B and Oliveira-Jr, Antonio and Cardoso, Kleber V},
+  journal={IEEE Access},
+  year={2022},
+  publisher={IEEE}
+}
+```
+
 ## Documentation
 
 https://github.com/LABORA-INF-UFG/paper-MCAK-2021/wiki.
