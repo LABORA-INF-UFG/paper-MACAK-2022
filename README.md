@@ -20,13 +20,15 @@ It is a pleasure to share our knowledge and you are free to use! Please, cite ou
 
 ## How to cite
 ```
-@article{lemes2022tutorial,
-  title={A Tutorial on Trusted and Untrusted non-3GPP Accesses in 5G Systems-First Steps Towards a Unified Communications Infrastructure},
-  author={Lemes, Mario T and Alberti, Antonio M and Both, Cristiano B and Oliveira-Jr, Antonio and Cardoso, Kleber V},
-  journal={IEEE Access},
+@ARTICLE{9940294,
+  author={Lemes, Mario Teixeira and Alberti, Antonio Marcos and Both, Cristiano Bonato and De Oliveira Júnior, Antonio Carlos and Cardoso, Kleber Vieira},
+  journal={IEEE Access}, 
+  title={A Tutorial on Trusted and Untrusted Non-3GPP Accesses in 5G Systems—First Steps Toward a Unified Communications Infrastructure}, 
   year={2022},
-  publisher={IEEE}
-}
+  volume={10},
+  number={},
+  pages={116662-116685},
+  doi={10.1109/ACCESS.2022.3219829}}
 ```
 
 ## Documentation
