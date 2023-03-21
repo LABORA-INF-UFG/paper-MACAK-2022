@@ -28,7 +28,9 @@ It is a pleasure to share our knowledge and you are free to use! Please, cite ou
   volume={10},
   number={},
   pages={116662-116685},
-  doi={10.1109/ACCESS.2022.3219829}}
+  doi={10.1109/ACCESS.2022.3219829}
+  url = {https://ieeexplore.ieee.org/abstract/document/9940294/}
+  }
 ```
 
 ## Documentation
